@@ -34,3 +34,21 @@ gl3.onclick = function myFunction(){
 		x.className = "gl3c";
 	}
 }
+gl4.onclick = function myFunction(){
+	var x = document.getElementById("gl4i");
+
+	if(x.className === "gl4c"){
+		x.className += " rk";
+	} else{
+		x.className = "gl4c";
+	}
+}
+gl5.onclick = function myFunction(){
+	var x = document.getElementById("gl5i");
+
+	if(x.className === "gl3c"){
+		x.className += " rk";
+	} else{
+		x.className = "gl5c";
+	}
+}
