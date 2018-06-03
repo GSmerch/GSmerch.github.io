@@ -100,6 +100,7 @@ main{
 	justify-content: center;
 	
 }
+
 .tem{
 	width: 35%;
 	height: 500px;
@@ -188,6 +189,11 @@ mainn{
 	background: #02001E;
 	
 }
+maing{
+	background: #02001E;
+	
+}
+//
 .nws{
 	background: #02001E;
 	padding: 10px 0px 0px 0px;
@@ -203,6 +209,23 @@ mainn{
 .nw1.ref p{
 	display: block;
 }
+.games{
+	background: #02001E;
+	padding: 10px 0px 0px 0px;
+}
+.games a{
+	padding: 0px 0px 0px 20px;
+	color: #FFF;
+	font-size: 25px;
+}
+.gm1 p{
+	display: none;
+}
+.gm1.ref p{
+	display: block;
+}
+//
+
 //glavs{
 //	background: #02001E;
 //	width:  100%;
