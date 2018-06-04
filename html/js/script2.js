@@ -7,6 +7,15 @@ vv.onclick = function myFunction(){
 		x.className = "vvc";
 	}
 }
+clp.onclick = function myFunction(){
+	var x = document.getElementById("colpi");
+
+	if(x.className === "colp"){
+		x.className += " rk";
+	} else{
+		x.className = "colp";
+	}
+}
 gl1.onclick = function myFunction(){
 	var x = document.getElementById("gl1i");
 
@@ -50,5 +59,14 @@ gl5.onclick = function myFunction(){
 		x.className += " rk";
 	} else{
 		x.className = "gl5c";
+	}
+}
+exp1.onclick = function myFunction(){
+	var x = document.getElementById("expri1");
+
+	if(x.className === "expr1"){
+		x.className += " rk";
+	} else{
+		x.className = "expr1";
 	}
 }

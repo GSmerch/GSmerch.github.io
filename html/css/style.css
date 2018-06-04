@@ -209,6 +209,12 @@ maing{
 .nw1.ref p{
 	display: block;
 }
+.nw2 p{
+	display: none;
+}
+.nw2.ref p{
+	display: block;
+}
 .games{
 	background: #02001E;
 	padding: 10px 0px 0px 0px;
@@ -262,15 +268,56 @@ maing{
 .gl1c.rk p{
 	display: block;
 }
+.gl2c p{
+	display: none;
+}
+.gl2c.rk p{
+	display: block;
+}
+.expr1 p{
+	display: none;
+}
+.expr1.rk p{
+	display: block;
+}
 
+gist .vvc{
+	padding: 0px 0px 0px 20px;
+}
+gist .gl1c{
+	padding: 0px 0px 0px 20px;
+}
+gist .gl2c{
+	padding: 0px 0px 0px 20px;
+}
+gist .gl3c{
+	padding: 0px 0px 0px 20px;
+}
+gist .gl4c{
+	padding: 0px 0px 0px 20px;
+}
+gist .gl5c{
+	padding: 0px 0px 0px 20px;
+}
 
+.colp gist{
+	display: none;
+}
+.colp.rk gist{
+	display: block;
+}
+.gl {
+	font-size: 30px;
+}
 .line2{ 
-	//padding: 10px 0px 10px 0px;
+	//padding: 0px 0px 0px 20px;
 	background: #FFF;
 	width: 100%;
 	height: 3px;
 	//top: -10px;
 	//right:-20px;
+	//left: -20px;
+	//margin: 0px 0px 0px 10px;
 }
 .nk a{
 	color: #FFF;
@@ -283,6 +330,7 @@ maing{
 	padding: 10px 0px 10px 30px;
 	text-indent: 40px;
 	color: white;
+	font-size: 16px;
 }
 .pict{
 	display: flex;
