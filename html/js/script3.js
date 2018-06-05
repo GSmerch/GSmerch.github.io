@@ -16,3 +16,12 @@ n2.onclick = function myFunction(){
 		x.className = "nw2";
 	}
 }
+n3.onclick = function myFunction(){
+	var x = document.getElementById("nwi3");
+
+	if(x.className === "nw3"){
+		x.className += " ref";
+	} else{
+		x.className = "nw3";
+	}
+}

@@ -215,6 +215,12 @@ maing{
 .nw2.ref p{
 	display: block;
 }
+.nw3 p{
+	display: none;
+}
+.nw3.ref p{
+	display: block;
+}
 .games{
 	background: #02001E;
 	padding: 10px 0px 0px 0px;
@@ -259,6 +265,10 @@ maing{
 .vvc p{
 	display: none;
 }
+//.baner2{
+	//max-width: 50%;
+//	max-height:  50%;
+//}
 .vvc.rk p{
 	display: block;
 }
