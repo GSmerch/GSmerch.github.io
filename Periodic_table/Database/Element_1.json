@@ -1,0 +1,11 @@
+﻿{
+  "NameRu" : "Водород",
+  "NameEn" : "Hydrogenium",
+  "Symbol" : "H",
+  "AtomNum" : 1,
+  "Mass" : 1.00794,
+  "OxidationState" : "-1 1",
+  "Configuration" : "1s¹",
+  "AtomRadius" : 53,
+  "CovalentRadius" : 31
+}

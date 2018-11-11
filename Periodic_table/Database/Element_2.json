@@ -1,0 +1,11 @@
+﻿{
+  "NameRu" : "Гелий",
+  "NameEn" : "Helium",
+  "Symbol" : "He",
+  "AtomNum" : 2,
+  "Mass" : 4.002602,
+  "OxidationState" : "-",
+  "Configuration" : "1s²",
+  "AtomRadius" : 31,
+  "CovalentRadius" : 28
+}

@@ -1,0 +1,11 @@
+﻿{
+  "NameRu" : "Неодим",
+  "NameEn" : "Neodymium",
+  "Symbol" : "Nd",
+  "AtomNum" : 60,
+  "Mass" : 144.242,
+  "OxidationState" : "2 3 4",
+  "Configuration" : "[Xe] 4f⁴ 6s²",
+  "AtomRadius" : 206,
+  "CovalentRadius" : 201
+}

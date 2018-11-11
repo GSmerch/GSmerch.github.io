@@ -1,0 +1,33 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+a{
+	text-decoration: none;
+}
+li{
+	text-decoration: none;
+	list-style: none;
+}
+.Open{
+	display: block;
+
+}
+.Close{
+	display: none;
+
+}
+Canvas{
+	max-width: 100%;
+}
+.left_panel{
+	padding: 0px 0px;
+	width: 7.3vw;
+	//height: 100vh;
+	display: block;
+	color: #2F2F2F;
+	background-color: #2F2F2F;
+	filter: grayscale(100%) brightness(80%) contrast(297%);
+	
+
+}

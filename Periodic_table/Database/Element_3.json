@@ -1,0 +1,11 @@
+﻿{
+  "NameRu" : "Литий",
+  "NameEn" : "Lithium",
+  "Symbol" : "Li",
+  "AtomNum" : 3,
+  "Mass" : 6.941,
+  "OxidationState" : "1",
+  "Configuration" : "[He] 2s²",
+  "AtomRadius" : 167,
+  "CovalentRadius" : 128
+}
